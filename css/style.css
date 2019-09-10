@@ -1,0 +1,7 @@
+#shopping-list {
+  list-style: none;
+  background-color: #f5f5f5;
+}
+#shopping-list li {
+  padding: 5px 15px;
+}
